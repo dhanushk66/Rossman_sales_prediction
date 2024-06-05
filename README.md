@@ -29,7 +29,9 @@ store is not participating, 1 = store is participating
 started participating in Promo2
 15. PromoInterval - describes the consecutive intervals Promo2 is started, naming the
 months the promotion is started anew. E.g. "Feb,May,Aug,Nov" means each round
-starts in February, May, August, November of any given year for that store
+starts in February, May, August, November of any given year for that store.
+
+
 Aim
 We are provided with historical sales data for 1,115 Rossmann stores. The task is to
 forecast the "Sales" column.
